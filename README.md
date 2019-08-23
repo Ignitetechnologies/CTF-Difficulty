@@ -1,5 +1,6 @@
 # CTF Difficulty Cheatsheet (Vulnhub)
-This is a Cheatsheet for CTF Challenges categorized by different Difficulty Measures.
+
+This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
 
 Table of Contents
 =================
