@@ -1,0 +1,24 @@
+## Hard
+
+This cheatsheet contains all the CTF Challenges which are categorized as "Hard". This list is made form our experience. Individual views on a labs can be different to each CTF solver based on his/her experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+
+1. [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)
+2. [Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)
+3. [Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-challenge/)
+4. [Billy Madison](https://www.hackingarticles.in/hack-billy-madison-vm-ctf-challenge/)
+5. [Necromancer](https://www.hackingarticles.in/hack-necromancer-vm-ctf-challenge/)
+6. [Cyberry:1](https://www.hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)
+7. [BSides London 2017](https://www.hackingarticles.in/hack-the-bsides-london-vm-2017boot2root/)
+8. [Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)
+9. [Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)
+10. [The Gemini inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)
+11. [PinkyPalace](https://www.hackingarticles.in/hack-the-pinkypalace-vm-ctf-challenge/)
+12. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
+13. [Bulldog 2](https://www.hackingarticles.in/hack-the-bulldog2-ctf-challenge/)
+14. [WinterMute : 1](https://www.hackingarticles.in/hack-the-wintermute-1-ctf-challenge/)
+15. [/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)
+16. [ROP Primer](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)
+17. [Gemini inc : 2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)
+18. [Moonranker : 1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)
+19. [Replay : 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)
+20. [Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)
