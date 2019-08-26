@@ -79,3 +79,5 @@ This cheatsheet contains all the CTF Challenges which are categorized as "Medium
 75. [Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)
 76. [Clamp 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)
 77. [Tr0ll:3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
+78. [CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)
+79. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
