@@ -67,3 +67,4 @@ This cheatsheet contains all the CTF Challenges which are categorized as "Easy".
 63.	[WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)
 64.	[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)
 65.	[Broken: Gallery](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
+66. [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)
