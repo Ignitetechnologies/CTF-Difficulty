@@ -163,6 +163,7 @@ Table of Contents
 77. [Tr0ll:3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
 78. [CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)
 79. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
+80. [Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)
 
 <a name="hard"></a>
 ## Hard
