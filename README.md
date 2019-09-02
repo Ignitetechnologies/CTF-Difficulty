@@ -81,6 +81,14 @@ Table of Contents
 64.	[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)
 65.	[Broken: Gallery](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
 66. [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)
+67. [Hack The Kioptrix Level-1](https://www.hackingarticles.in/hack-the-kioptrix-level-1/)
+68. [Seattle](https://www.hackingarticles.in/hack-seattle-vm-ctf-challenge/)
+69. [Zorz](https://www.hackingarticles.in/hack-zorz-vm-ctf-challenge/)
+70. [Pentester Lab: SQL Injection to Shell 1](https://www.hackingarticles.in/hack-pentester-lab-sql-injection-shell-vm/)
+71. [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)
+72. [Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)
+73. [H.A.S.T.E.](https://www.hackingarticles.in/hack-h-s-t-e-vm-ctf-challenge/)
+74. [Vulnhub Pentester Lab: S2-052](https://www.hackingarticles.in/hack-the-vulnhub-pentester-lab-s2-052/)
 
 <a name="medium"></a>
 ## Medium
@@ -128,7 +136,7 @@ Table of Contents
 42. [Raven](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
 43. [Matrix : 1](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)
 44. [Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)
-45. [FourAndSix : 2](https://www.hackingarticles.in/fourandsix-2-vulnhub-walkthrough/)
+45. 
 46. [Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)
 47. [KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)
 48. [RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)
@@ -164,6 +172,16 @@ Table of Contents
 78. [CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)
 79. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
 80. [Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)
+81. [Skydog Con](https://www.hackingarticles.in/hack-skydog-con-ctf-2016-catch-can-vm/)
+82. [Padding Oracle](https://www.hackingarticles.in/hack-padding-oracle-lab/)
+83. [Pentester Lab: SQL Injection to Shell 2](https://www.hackingarticles.in/hack-pentester-lab-sql-injection-shell-ii-blind-sql-injection/)
+84. [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)
+85. [D0not5top](https://www.hackingarticles.in/hack-d0not5top-vm-ctf-challenge/)
+86. [EW Skuzzy](https://www.hackingarticles.in/hack-ew-skuzzy-vm-ctf-challenge/)
+87. [64 Base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)
+88. [Vulnupload](https://www.hackingarticles.in/hack-the-vulnupload-vm-ctf-challenge/)
+89. [Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)
+
 
 <a name="hard"></a>
 ## Hard
@@ -187,3 +205,12 @@ Table of Contents
 18. [Moonranker : 1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)
 19. [Replay : 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)
 20. [Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)
+21. [6 Days](https://www.hackingarticles.in/hack-6days-vm-ctf-challenge/)
+22. [IMF](https://www.hackingarticles.in/hack-imf-vm-ctf-challenge/)
+23. [thewall](https://www.hackingarticles.in/hack-thewall-vm-ctf-challenge/)
+24. [ROP Primer: 1.0.1](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)
+25. [USV:2017](https://www.hackingarticles.in/hack-usv-2017-ctf-challenge/)
+26. [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)
+27. [Gemini Inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)
+28. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
+29. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
