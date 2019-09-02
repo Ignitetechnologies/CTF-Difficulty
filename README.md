@@ -92,7 +92,7 @@ Table of Contents
 75. [unknowndevice64 v2.0](https://www.hackingarticles.in/unknowndevice64-v2-0-vulnhub-walkthrough/)
 76. [The Library 2](https://www.hackingarticles.in/the-library2-vulnhub-walkthrough/)
 77. [West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)
-78. [Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)
+
 
 <a name="medium"></a>
 ## Medium
@@ -216,6 +216,5 @@ Table of Contents
 24. [ROP Primer: 1.0.1](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)
 25. [USV:2017](https://www.hackingarticles.in/hack-usv-2017-ctf-challenge/)
 26. [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)
-27. [Gemini Inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)
-28. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
-29. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
+27. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
+28. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
