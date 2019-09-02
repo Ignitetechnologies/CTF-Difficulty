@@ -89,6 +89,10 @@ Table of Contents
 72. [Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)
 73. [H.A.S.T.E.](https://www.hackingarticles.in/hack-h-s-t-e-vm-ctf-challenge/)
 74. [Vulnhub Pentester Lab: S2-052](https://www.hackingarticles.in/hack-the-vulnhub-pentester-lab-s2-052/)
+75. [unknowndevice64 v2.0](https://www.hackingarticles.in/unknowndevice64-v2-0-vulnhub-walkthrough/)
+76. [The Library 2](https://www.hackingarticles.in/the-library2-vulnhub-walkthrough/)
+77. [West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)
+78. [Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)
 
 <a name="medium"></a>
 ## Medium
@@ -136,7 +140,7 @@ Table of Contents
 42. [Raven](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
 43. [Matrix : 1](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)
 44. [Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)
-45. 
+45. [Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)
 46. [Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)
 47. [KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)
 48. [RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)
@@ -181,6 +185,7 @@ Table of Contents
 87. [64 Base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)
 88. [Vulnupload](https://www.hackingarticles.in/hack-the-vulnupload-vm-ctf-challenge/)
 89. [Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)
+90. [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
 
 
 <a name="hard"></a>
