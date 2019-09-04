@@ -186,6 +186,8 @@ Table of Contents
 88. [Vulnupload](https://www.hackingarticles.in/hack-the-vulnupload-vm-ctf-challenge/)
 89. [Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)
 90. [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
+91. [Symfonos:4](https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/)
+92. [Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)
 
 
 <a name="hard"></a>
