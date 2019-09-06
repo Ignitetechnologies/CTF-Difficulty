@@ -188,6 +188,8 @@ Table of Contents
 90. [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
 91. [Symfonos:4](https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/)
 92. [Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)
+93. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
+94. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)|
 
 
 <a name="hard"></a>
