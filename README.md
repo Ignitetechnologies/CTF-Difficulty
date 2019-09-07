@@ -14,7 +14,7 @@ Table of Contents
 * [Hard](#hard)
 
 <a name="easy"></a>
-## Easy
+##  Easy [⤴](#table-of-contents)
 1.	[LAMPSecurity: CTF 4](https://www.hackingarticles.in/hack-the-lampsecurity-ctf4-ctf-challenge/)
 2.	[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)
 3.	[LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)
@@ -95,7 +95,7 @@ Table of Contents
 
 
 <a name="medium"></a>
-## Medium
+## Medium [⤴](#table-of-contents)
 1. [LAMPSecurity: CTF 8](https://www.hackingarticles.in/hack-the-lampsecurity-ctf8-ctf-challenge-2/)
 2. [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)
 3. [DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)
@@ -193,7 +193,7 @@ Table of Contents
 
 
 <a name="hard"></a>
-## Hard
+## Hard [⤴](#table-of-contents)
 1. [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)
 2. [Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)
 3. [Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-challenge/)
