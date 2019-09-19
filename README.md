@@ -92,6 +92,7 @@ Table of Contents
 75. [unknowndevice64 v2.0](https://www.hackingarticles.in/unknowndevice64-v2-0-vulnhub-walkthrough/)
 76. [The Library 2](https://www.hackingarticles.in/the-library2-vulnhub-walkthrough/)
 77. [West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)
+78. [Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)
 
 
 <a name="medium"></a>
@@ -190,7 +191,7 @@ Table of Contents
 92. [Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)
 93. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
 94. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)
-
+95. [Silky-CTF: 0x02](https://www.hackingarticles.in/silky-ctf-0x02-vulhub-walkthrough/)
 
 <a name="hard"></a>
 ## Hard [⤴](#table-of-contents)
