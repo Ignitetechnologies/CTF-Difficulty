@@ -192,6 +192,8 @@ Table of Contents
 93. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
 94. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)
 95. [Silky-CTF: 0x02](https://www.hackingarticles.in/silky-ctf-0x02-vulhub-walkthrough/)
+96. [HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
+97. [DC8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)
 
 <a name="hard"></a>
 ## Hard [⤴](#table-of-contents)
