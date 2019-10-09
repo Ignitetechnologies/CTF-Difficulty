@@ -93,6 +93,8 @@ Table of Contents
 76. [The Library 2](https://www.hackingarticles.in/the-library2-vulnhub-walkthrough/)
 77. [West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)
 78. [Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)
+79. [Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
+80. [bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
 
 
 <a name="medium"></a>
