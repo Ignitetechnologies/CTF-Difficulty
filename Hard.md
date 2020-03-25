@@ -30,3 +30,6 @@ This cheatsheet contains all the CTF Challenges which are categorized as "Hard".
 26. [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)
 27. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
 28. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
+29. [Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)
+30. [View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)
+31. [Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)
