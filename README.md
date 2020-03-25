@@ -95,7 +95,10 @@ Table of Contents
 78. [Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)
 79. [Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
 80. [bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
-
+81. [Connect The Dots:1](https://www.hackingarticles.in/connect-the-dots1-vulnhub-walkthough/)
+82. [Sar](https://www.hackingarticles.in/sar-vulnhub-walkthrough/)
+83. [My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)
+84. [Sahu](https://www.hackingarticles.in/sahu-vulnhub-walkthrough/)
 
 <a name="medium"></a>
 ## Medium [⤴](#table-of-contents)
@@ -196,6 +199,19 @@ Table of Contents
 95. [Silky-CTF: 0x02](https://www.hackingarticles.in/silky-ctf-0x02-vulhub-walkthrough/)
 96. [HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
 97. [DC8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)
+98. [DC:9](https://www.hackingarticles.in/dc-9-vulnhub-walkthrough/)
+99. [CyNix:1](https://www.hackingarticles.in/cynix1-vulnhub-walkthrough/)
+100. [Symfonos:5](https://www.hackingarticles.in/symfonos5-vulnhub-walkthrough/)
+101. [Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)
+102. [Five86:2](https://www.hackingarticles.in/five86-2-vulnhub-walkthrough/)
+103. [EnuBox:Mattermost](https://www.hackingarticles.in/enubox-mattermost-vulnhub-walkthrough/)
+104. [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)
+105. [2much:1](https://www.hackingarticles.in/2much-1-vulnhub-walkthrough/)
+106. [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)
+107. [TBBT](https://www.hackingarticles.in/tbbt-funwithflags-vulnhub-walkthrough/)
+
+
+
 
 <a name="hard"></a>
 ## Hard [⤴](#table-of-contents)
@@ -228,3 +244,5 @@ Table of Contents
 27. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
 28. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
 29. [Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)
+30. [View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)
+31. [Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)
