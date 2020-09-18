@@ -1,6 +1,6 @@
 # CTF Difficulty Cheatsheet (Vulnhub)
 
-This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/rajchandel
@@ -102,6 +102,7 @@ Table of Contents
 86. [Geisha:1](https://www.hackingarticles.in/geisha1-vulnhub-walkthrough/)
 87. [Katana](https://www.hackingarticles.in/katana-vulnhub-walkthrough/)
 88. [mhz_cxf:c1f](https://www.hackingarticles.in/mhz_cxf-c1f-vulnhub-walkthrough/)
+89. [Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)
 
 <a name="medium"></a>
 ## Medium [⤴](#table-of-contents)
@@ -215,6 +216,9 @@ Table of Contents
 108. [VulnUni 1.0.1](https://www.hackingarticles.in/vulnuni-1-0-1-vulnhub-walkthrough/)
 109. [TBBT:2](https://www.hackingarticles.in/tbbt2-vulnhub-walkthrough/)
 110. [CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)
+111. [DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)
+112. [CryptoBank: 1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)
+113. [Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
 
 
 <a name="hard"></a>
