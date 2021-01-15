@@ -321,3 +321,4 @@ Table of Contents
 33. [Mumbai:1](https://www.hackingarticles.in/mumbai1-vulnhub-walkthrough/)
 34. [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)
 35. [Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)
+36. [Primer](https://www.hackingarticles.in/hack-primer-vm-ctf-challenge/)
