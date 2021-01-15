@@ -280,6 +280,7 @@ Table of Contents
 113. [Cybox: 1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)
 113. [Hogwarts: Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)
 113. [DevGuru: 1](https://www.hackingarticles.in/devguru-1-vulnhub-walkthrough/)
+113. [Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
 
 
 <a name="hard"></a>
