@@ -120,7 +120,6 @@ Table of Contents
 104. [Healthcare:1](https://www.hackingarticles.in/healthcare-1-vulnhub-walkthrough/)
 105. [ShellDredd #1 Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)
 106. [Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)
-107. [HA:Narak](https://www.hackingarticles.in/ha-narak-vulnhub-walkthrough/)
 
 <a name="medium"></a>
 ## Medium [⤴](#table-of-contents)
