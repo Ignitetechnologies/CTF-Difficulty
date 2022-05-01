@@ -8,7 +8,7 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 [1.4]: https://discord.com/invite/kyKvXwK4Bk
 [1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
 [1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]]
+# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
 Table of Contents
 =================
