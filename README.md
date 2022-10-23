@@ -1,6 +1,6 @@
 # CTF Difficulty Cheatsheet (Vulnhub)
 
-This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
